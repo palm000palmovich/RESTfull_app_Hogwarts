@@ -59,5 +59,4 @@ public class StudentController {
     public List<Student> studsInAge(@PathVariable("age") int age){
         return studentService.studentsPureAge(age);
     }
-
 }

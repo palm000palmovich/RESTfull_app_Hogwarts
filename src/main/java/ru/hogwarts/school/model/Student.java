@@ -15,7 +15,6 @@ public class Student {
 
 
     //Геттер и сеттеры
-
     public Long getId() {
         return id;
     }

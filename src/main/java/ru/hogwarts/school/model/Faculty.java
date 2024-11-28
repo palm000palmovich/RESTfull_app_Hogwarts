@@ -51,6 +51,5 @@ public class Faculty {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", color='" + color + '\'' +
-                '}';
-    }
+                '}';}
 }
